@@ -1,5 +1,27 @@
-- 👋 Hi, I’m @murillobcdev
-- 👀 I’m interested in FrontEnd development.
-- 🌱 I’m currently learning Javascript, Bootstrap and React!
-- 💞️ I’m looking to collaborate on small or big applications
-- 📫 How to reach me? telegram.me/llumiro
+## Hi, I'm Murillo, a front-end jr dev.
+
+<div align="center">
+  <a href="https://github.com/murillobcdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murillobcdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillobcdev&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Murillo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Murillo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Murillo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Murillo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Murillo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Murillo-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/N0R3NFx.png?width=676&height=676">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/myrullo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:murillobdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/murillobcampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
