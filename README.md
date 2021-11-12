@@ -1,6 +1,4 @@
 ## Hi, I'm Murillo, a 26 years old front-end jr dev.
-## I like RPG, series/movies and play guitar!
-
 <div align="center">
   <a href="https://github.com/murillobcdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murillobcdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
